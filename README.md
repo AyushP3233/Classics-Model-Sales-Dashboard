@@ -99,5 +99,6 @@ To enable data-driven business decisions through an interactive dashboard that:
 6. Screenshots / Demos
 ✅ Snapshot of the Dashboard (PNG) – ![Dashboard PREVIEW](https://github.com/AyushP3233/Classics-Model-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard1..png)
 
-Bookmark of Quantityorderrd by ProductLine
+Bookmark of Quantityorderrd by ProductLine:
+
 ✅ Snapshot of the Dashboard (PNG) - ![Dashboard Example](https://github.com/AyushP3233/Classics-Model-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard2..png)
